@@ -6,8 +6,7 @@ In a nutshell, I first convert the stereo image pair from R,G,B to L,a,b color s
 
 Please cite the below [paper](https://doi.org/10.1109/SPCOM.2014.6983949) if you use the code in its original or modified form:
 
-*S. Mukherjee and R. M. R. Guddeti, "A hybrid algorithm for disparity calculation from sparse disparity estimates based on stereo vision," 2014 International Conference on Signal Processing and Communications (SPCOM), Bangalore, 2014, pp. 1-6.
-doi: 10.1109/SPCOM.2014.6983949*
+*S. Mukherjee and R. M. R. Guddeti, "A hybrid algorithm for disparity calculation from sparse disparity estimates based on stereo vision," 2014 International Conference on Signal Processing and Communications (SPCOM), Bangalore, 2014, pp. 1-6.*
 
 # Guidelines
 
